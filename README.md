@@ -5,7 +5,11 @@ A Home Repo for all of my solutions to the Project Based Learning Repo on Github
 I use .NET and ABAP as part of my work, so you will not find any c#.net projects here (sorry!), but I will be working with the following 4 language:
 
 1. Dart with Flutter
-2. Go
+
+# 2. Go
+  - Angular and Go Web socket for Chat app
+  - Go on Gin Microservice article fetcher
+
 3. Javascript
 4. C
 
