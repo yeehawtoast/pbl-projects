@@ -13,4 +13,4 @@ I use .NET and ABAP as part of my work, so you will not find any c#.net projects
 ## 3. Javascript
 ## 4. C
 
-I have selected these 3 as they each have different domains they tend to cover. Dart/Flutter is used with mobile apps, Go is a modern backend language, Javascript is everywhere, and C is my personal favorite, but I am out of practice with it. Hopefully you can also find personal growth with these same projects as well!
+I have selected these 4 as they each have different domains they tend to cover. Dart/Flutter is used with mobile apps, Go is a modern backend language, Javascript is everywhere, and C is my personal favorite, but I am out of practice with it. Hopefully you can also find personal growth with these same projects as well!
