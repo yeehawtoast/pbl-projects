@@ -4,9 +4,13 @@ A Home Repo for all of my solutions to the Project Based Learning Repo on Github
 # Languages
 I use .NET and ABAP as part of my work, so you will not find any c#.net projects here (sorry!), but I will be working with the following 4 language:
 
-1. Dart with Flutter
-2. Go
-3. Javascript
-4. C
+## 1. Dart with Flutter
 
-I have selected these 3 as they each have different domains they tend to cover. Dart/Flutter is used with mobile apps, Go is a modern backend language, Javascript is everywhere, and C is my personal favorite, but I am out of practice with it. Hopefully you can also find personal growth with these same projects as well!
+## 2. Go
+  - Angular and Go Web socket for Chat app
+  - Go on Gin Microservice article fetcher
+
+## 3. Javascript
+## 4. C
+
+I have selected these 4 as they each have different domains they tend to cover. Dart/Flutter is used with mobile apps, Go is a modern backend language, Javascript is everywhere, and C is my personal favorite, but I am out of practice with it. Hopefully you can also find personal growth with these same projects as well!
